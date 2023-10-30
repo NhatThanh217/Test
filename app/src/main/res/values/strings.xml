@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pkt062_La03</string>
+    <string name="first_property_button">123 River Rd - San Antonio - TX</string>
+    <string name="second_property_button">23412 Hill St - San Antonio - TX</string>
+    <string name="third_property_button">34 Deer Ct - San Antonio - TX</string>
+    <string name="fourth_property_button">109 Medina St - Boerne - TX</string>
+    <string name="show_first_toast">$350900</string>
+    <string name="show_second_toast">$1500000</string>
+    <string name="show_third_toast">$100000</string>
+    <string name="show_fourth_toast">$249000</string>
+
+</resources>
